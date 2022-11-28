@@ -1,0 +1,24 @@
+#desc {
+    color: darkslateblue;
+    border: 3px black dashed;
+}
+
+#Etible {
+    background-image: url("vector-square-maze-template-blank-black-white-geometric-labyrinth-game-preschool-printable-outline-educational-activity-225458211.jpg");
+    width: 800px;
+    height: 800px;
+}
+
+body {
+    background-image: url("top-view-green-grass-field-natural-background-texture-170787940.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+canvas {
+    border-color: black;
+    border-radius: 16px;
+    border-width: 5px;
+    border-style: outset;
+    background-color: white;
+}
